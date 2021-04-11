@@ -1,0 +1,14 @@
+.border {
+     border: 3px solid blue ;
+}
+        
+.noBorder{
+     border: 3px solid transparent;
+}
+
+#container {
+     display: grid;
+     grid-template-columns: 195px 195px 195px 195px 195px;
+     grid-gap: 10px;
+
+}
